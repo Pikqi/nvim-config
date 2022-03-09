@@ -1,4 +1,4 @@
-require "user.options"
+
 require "user.keymaps"
 require "user.plugins"
 require "user.colorscheme"
@@ -19,3 +19,6 @@ require "user.indentline"
 require "user.alpha"
 require "user.whichkey"
 require "user.autocommands"
+
+-- require('luasnip').filetype_extend("javascript", { "javascriptreact" })
+-- require('luasnip').filetype_extend("javascript", { "html" })
