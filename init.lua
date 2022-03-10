@@ -20,5 +20,5 @@ require "user.alpha"
 require "user.whichkey"
 require "user.autocommands"
 
--- require('luasnip').filetype_extend("javascript", { "javascriptreact" })
--- require('luasnip').filetype_extend("javascript", { "html" })
+require('luasnip').filetype_extend("javascript", { "javascriptreact" })
+require('luasnip').filetype_extend("javascript", { "html" })
