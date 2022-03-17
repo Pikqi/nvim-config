@@ -188,6 +188,7 @@ local mappings = {
     p = { "<cmd>colorscheme darkplus<cr>", "darkplus"},
     s = { "<cmd>colorscheme spacedark<cr>", "spacedark"},
     m = { "<cmd>colorscheme codemonkey<cr>", "codemonkey"},
+    k = { "<cmd>colorscheme kanagawa<cr>", "kanagawa"},
   },
 }
 
